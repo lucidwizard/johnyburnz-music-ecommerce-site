@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+@media (max-width: 499px) {
+    body {
+        font-size: 10px;
+    }
+    ul li a {
+        font-size: 5px;
+    }
+}
